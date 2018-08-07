@@ -1,2 +1,2 @@
 # thor
-Almighty of Lightning
+Almighty of Lightning and Power
